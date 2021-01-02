@@ -11,9 +11,9 @@ elon_musk_origin.csv - The original source file with Elon Musk's tweets
 </br></br>
 
 |--Data-Science-Project-1\
-|  |-- Elon Musk's tweets.ipynb\
-|  |-- elon_musk_origin.csv\
-|  |-- README.md
+|     |-- Elon Musk's tweets.ipynb\
+|     |-- elon_musk_origin.csv\
+|     |-- README.md
 
 <h2> How to interact </h2>
 Please install the Jupyter notebook on your local machine in order to open the file.</br>
