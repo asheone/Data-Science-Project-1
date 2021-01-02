@@ -10,9 +10,9 @@ Elon Musk's tweets.ipynb - The Jupyter notebook
 elon_musk_origin.csv - The original source file with Elon Musk's tweets
 
 |--Data-Science-Project-1
-|. |-- Elon Musk's tweets.ipynb 
-|. |-- elon_musk_origin.csv
-|  |-- README.md
+/n|. |-- Elon Musk's tweets.ipynb 
+\n|. |-- elon_musk_origin.csv
+\n|  |-- README.md
 
 <h2> How to interact </h2>
 Please install the Jupyter notebook on your local machine in order to open the file.
