@@ -3,7 +3,7 @@
 <h2> Motivation </h2>
 
 This is the repo for the Udacity Data Science Nanodegree. The project is part of a submission for the course in conjunction with the Medium article, which can be found here: https://medium.com/@lukasz.aszyk/this-is-what-5-years-of-elons-musk-tweets-looks-like-part-1-176a8279cefb </br>
-I hope you will join the journey of exploring Elon's tweets which is the Kaggle dataset (https://www.kaggle.com/vidyapb/elon-musk-tweets-2015-to-2020) I've chosen for the exercise.
+I hope you will join the journey of exploring Elon's tweets which is the Kaggle dataset I've chosen for the exercise.
 
 <h2> Files description and structure </h2>
 Elon Musk's tweets.ipynb - The Jupyter notebook</br>
@@ -134,5 +134,5 @@ Open license
 Lukasz Aszyk
 
 <h2> Acknowledgments </h2>
-Thank you for the data Kaggle</br>
+Thank you for the data Kaggle (https://www.kaggle.com/vidyapb/elon-musk-tweets-2015-to-2020) </br>
 Thank you Elon Musk for the tweets
