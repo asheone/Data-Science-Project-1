@@ -8,6 +8,7 @@ I hope you will join the journey of exploring Elon's tweets which is the Kaggle 
 <h2> Files description and structure </h2>
 Elon Musk's tweets.ipynb - The Jupyter notebook</br>
 elon_musk_origin.csv - The original source file with Elon Musk's tweets
+</br></br>
 
 |--Data-Science-Project-1\
 |  |-- Elon Musk's tweets.ipynb\
@@ -16,9 +17,9 @@ elon_musk_origin.csv - The original source file with Elon Musk's tweets
 
 <h2> How to interact </h2>
 Please install the Jupyter notebook on your local machine in order to open the file.</br>
-You can find the instructions here (https://jupyter.org/install.html).
+You can find the instructions here (https://jupyter.org/install.html). </br>
 
-Install necessary Python libraries:\
+Install necessary Python libraries:</br>
 alt==0.0.4
 altair==4.1.0
 altair-catplot==0.0.5
