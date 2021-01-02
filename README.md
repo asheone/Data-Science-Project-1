@@ -2,23 +2,23 @@
 
 <h2> Motivation </h2>
 
-This is the repo for the Udacity Data Science Nanodegree. The project is part of a submission for the course in conjunction with the Medium article, which can be found here: https://medium.com/@lukasz.aszyk/this-is-what-5-years-of-elons-musk-tweets-looks-like-part-1-176a8279cefb
+This is the repo for the Udacity Data Science Nanodegree. The project is part of a submission for the course in conjunction with the Medium article, which can be found here: https://medium.com/@lukasz.aszyk/this-is-what-5-years-of-elons-musk-tweets-looks-like-part-1-176a8279cefb\
 I hope you will join the journey of exploring Elon's tweets which is the Kaggle dataset I've chosen for the exercise.
 
 <h2> Files description and structure </h2>
-Elon Musk's tweets.ipynb - The Jupyter notebook
+Elon Musk's tweets.ipynb - The Jupyter notebook\
 elon_musk_origin.csv - The original source file with Elon Musk's tweets
 
 |--Data-Science-Project-1\
-|. |-- Elon Musk's tweets.ipynb\
-|. |-- elon_musk_origin.csv\
+|  |-- Elon Musk's tweets.ipynb\
+|  |-- elon_musk_origin.csv\
 |  |-- README.md\
 
 <h2> How to interact </h2>
-Please install the Jupyter notebook on your local machine in order to open the file.
+Please install the Jupyter notebook on your local machine in order to open \the file.\
 You can find the instructions here (https://jupyter.org/install.html).
 
-Install necessary Python libraries:
+Install necessary Python libraries:\
 alt==0.0.4
 altair==4.1.0
 altair-catplot==0.0.5
@@ -133,6 +133,6 @@ Open license
 Lukasz Aszyk
 
 <h2> Acknowledgments </h2>
-Thank you for the data Kaggle
+Thank you for the data Kaggle\
 Thank you Elon Musk for the tweets
 
