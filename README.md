@@ -21,6 +21,10 @@ elon_musk_origin.csv - The original source file with Elon Musk's tweets
 |     |-- README.md
 
 <h2> How to interact </h2>
+This step consist of two elements. </br>
+Create the environment and initialise the Github repository in the source folder. </br>
+Creating a dedicated Python environment is a must be for a good Data Scientist. As a Software Developer, you have to follow the best practices not only for creating the easy to read and maintainable code but also for building your credibility. As this is not a purpose for this post, I will just share this and this link to follow the documentation and the Medium tutorial which explains the process in detail.</br>
+Further, create  the GitHub repo with the README.md file, download the Jupyter Notebook and all the necessary libraries, and open the Elon Musk's tweets.ipynb file for the analysis. </br>
 Please install the Jupyter notebook on your local machine in order to open the file.</br>
 You can find the instructions here (https://jupyter.org/install.html). </br>
 
@@ -131,6 +135,10 @@ virtualenv-clone==0.5.4
 voila==0.2.4
 wcwidth==0.2.5
 webencodings==0.5.1
+
+<h2> Summary </h2>
+
+The dataset is sufficient enoguh to answer the posed questions. Please find them in the notebook attached and in the Medium article.
 
 <h2> Licensing </h2>
 Open license
