@@ -1,4 +1,4 @@
-# Data Science Project 1
+# This is how 5 years of Elon Musk's tweets look like - part 1
 
 <h2> Motivation </h2>
 
