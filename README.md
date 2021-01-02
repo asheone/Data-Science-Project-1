@@ -2,7 +2,12 @@
 
 <h2> Motivation </h2>
 
-This is the repo for the Udacity Data Science Nanodegree. The project is part of a submission for the course in conjunction with the Medium article, which can be found here: https://medium.com/@lukasz.aszyk/this-is-what-5-years-of-elons-musk-tweets-looks-like-part-1-176a8279cefb </br>
+This is the repository for the Udacity Data Science Nanodegree. The project is part of a submission for the course in conjunction with the Medium article, which can be found here: https://medium.com/@lukasz.aszyk/this-is-what-5-years-of-elons-musk-tweets-looks-like-part-1-176a8279cefb </br>
+I want to answer a few questions with this project, which are:</br>
+* What's Elon Musk's tweeting style?</br>
+* What tweeting pattern yields the highest engagement?</br>
+* What are the most popular words used in his tweets?</br>
+
 I hope you will join the journey of exploring Elon's tweets which is the Kaggle dataset I've chosen for the exercise.
 
 <h2> Files description and structure </h2>
