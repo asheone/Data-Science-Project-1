@@ -2,7 +2,8 @@
 
 <h2> Motivation </h2>
 
-This is the repo for the Udacity Data Science Nanodegree
+This is the repo for the Udacity Data Science Nanodegree. The project is part of a submission for the course in conjunction with the Medium article, which can be found here: https://medium.com/@lukasz.aszyk/this-is-what-5-years-of-elons-musk-tweets-looks-like-part-1-176a8279cefb
+I hope you will join the journey of exploring Elon's tweets which is the Kaggle dataset I've chosen for the exercise.
 
 <h2> Files description </h2>
 Elon Musk's tweets.ipynb - The Jupyter notebook
